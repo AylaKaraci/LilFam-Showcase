@@ -27,6 +27,20 @@ Finding people to play tennis with, join a painting workshop or go hiking is har
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="docs/dashboard.jpg" alt="Dashboard with AI-recommended events and gamification card" width="100%" />
+</p>
+
+| Real-time messaging | Live notifications |
+|---|---|
+| <img src="docs/messages.jpg" alt="Messages" /> | <img src="docs/notifications.jpg" alt="Notifications" /> |
+
+<sub>Web client running with demo data.</sub>
+
+---
+
 ## ✨ Features
 
 - 📍 **Location-aware events:** create events with a venue, map coordinates, date, capacity and a target skill level
